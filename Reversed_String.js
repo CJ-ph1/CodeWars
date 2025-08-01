@@ -8,4 +8,4 @@ function solution(str){
 	return word;
 }
 
-solution("World");
+console.log(solution("World"));
