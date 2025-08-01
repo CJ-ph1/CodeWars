@@ -1,1 +1,2 @@
-# CodeWars
+# CodeWars Level = 7
+
